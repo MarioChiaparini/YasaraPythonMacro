@@ -26,3 +26,6 @@ def HydroAtoms(atom1, numb, ph, pka=None):
     pKaRes(selection1=f"{atom1}", value=pka)
     
     return  CountAtom(selection=f"{atom1}")
+
+def CellDef(x_cell,y_cell,z_cell, center):
+    return Cell(x=x_cell, y=y_cell, z=z_cell, center=f"{center}")
