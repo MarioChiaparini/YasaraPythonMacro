@@ -5,7 +5,6 @@ from unittest import result
 from yasara import *
 from yasara_kernel import *
 
-
 def BondAtoms(atom1,atom2):
     AddBond(selection1=f"{atom1}", selection2=f"{atom2}", Update="Yes")
     list_bounds = ListBond(selection1=f"{atom1}",selection2=f"{atom2}", results=4)
@@ -29,3 +28,5 @@ def HydroAtoms(atom1, numb, ph, pka=None):
 
 def CellDef(x_cell,y_cell,z_cell, center):
     return Cell(x=x_cell, y=y_cell, z=z_cell, center=f"{center}")
+
+#GroupCenter("Obj 2 Mol A", coordsys="local", Type="Geometric")
