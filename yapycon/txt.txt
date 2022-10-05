@@ -1,0 +1,53 @@
+Based on my job experience with computational biology and bioinformatics R&D field, data science become an important tool for pharmaceuticals discovery and tools for genetic associations related with diseases like Gene Wide Association (GWAS) other like phasing and imputation methods for Markov chains to impute SNPS predictions. But my main interest is related with artificial neural networks for pharmacophore groups to actually find hit molecules for tropical diseases, like Malaria or application for Mayaro virus in Brazil. 
+
+DIFERENTAL AND INTEGRAL EQUATIONS A - 30 HOURS [Nonlinear equations and limits]
+DIFERENTAL AND INTEGRAL EQUATIONS B - 30 HOURS [Diferential equations concepts and integrals methods solutions]
+DIFERENTAL AND INTEGRAL EQUATIONS c complements - 30 [Partial and Ordinary diferential equations (Laplacian operators)]
+
+LINEAR ALGEBRA - 15 HOURS [MATRICES, VECTORS, MULTILINEAR ALGEBRA and PROJECTIVE SPACE]
+
+Transcripts names:
+
+COMPUTER PROGRAMMING ALGORYTHMS - 30 HOURS 
+NUMERICAL CALCULUS - 15 HOURS 
+MODELLING, SIMULATION AND OPTIMIZATION OF PROCESS - 30 HOURS
+
+Also developed my computational knowledge with my internships at Genera, a bioinformatics company which sequence human DNA for poligenic risk score and heritage origins, and with the National Research Center as a computational scientist intern working with computational biology and bioinformatics for molecular modelling for drug discovery generated from a Syncrotron light sources from a particle accelerator stored on clusters of High Performance Computers. Using tools like Slurm, Singularity, Mosix, OpenCL, Yasara, Autodock Vina, LAMMPS, Orca, Python, Julia programming language, Python programming language, bash scripts, Podman, Docker, Pandas, Scikit-Learn, Cellpose, Ilastik,Plink, MendelImpute.jl, Beagle, Eagle, Linux Distros (CentOS, Debian, PopOs, Suse and Ubuntu), Lineage, Omero Database and worked with hit molecules validtions with neural networks applied on Hightroughtpout screening applications for cancer and other tropical diseases.
+
+Transcript name:
+
+1. PROBABILITY AND STATISTICS - 15 [ Random Experiment, Sample , Random variables
+    Expected Value,
+    Independence,
+    Variance,
+    Mean,
+    Basic Statistics,
+    Bayesian Statistics and Probability,
+    Calculus-Based Statistics,
+    Descriptive Statistics,
+    Probability,
+    Binomial Theorem,
+    Definitions for Common Statistics Terms,
+    Critical Values,
+    Hypothesis Testing,
+    Normal Distributions,
+    T-Distributions,
+    Central Limit Theorem,
+    Confidence Intervals,
+    Chebyshev’s Theorem,
+    Sampling and Finding Sample Sizes,
+    Chi Square,
+    Regression Analysis / Linear Regression,
+    Non Normal Distributions
+]
+N/A (I am into my last semester of my bachelor degree in Chemical Engineering and my work experience is from my 2 years of experience in bioinformatics) 
+
+Yes, actually I started my internship ate Genera, a Latin American bioinformatics company, related with gene sequencing generating data from de Illumina and Thermofisher scientifics micro-arrays. In this biotechnology we found some problems with indels and also with the difference between the micro-arrays sequence chips one of them got 90 thousand SNPS and the other got 30 thousand SNPS, with this some clients got lower quantity of SNPS sequenced. To solve this problem, my internship project was to create an imputation and phasing practices using Julia, Python and Bash tools to transform the 30 thousands SNPS from one sequence chip to 90 thousand SNPS predicted. 
+
+First the reason is related for with the option to work while I study, with this I can pay for my Masters degree and think to get a PhD in the future. I am planning to get the a job as a data scientist or as a bioinformatician in some of the startups from Waterloo university or from some other companies in the region, by doing this at Friday, Saturday and Sunday I pretend to study the topics from my masters degree.
+
+
+Being honest I did not knew that it was hard to get the study permit visa, I was thinking about the regular way to get it. As other foreigners who want to get a student permit visa, I planned to pay for the visa from the Canadian consulate in my current country and then making the student visa interview. (Actually this is my plan for all of other Masters degree programs, I do not now if it have any other way to get a student permit visa, besides of the right way)
+
+a) My focus will be always related with my masters degree, so I pretend to get part-time jobs, where I pretend to work to take a 6 hours per day job to actually be able to focus in my Masters degree. I actually know how that works as my univeristy asks the students at the final year a mandatory intership eith the bachelor degree. 
+
