@@ -16,7 +16,7 @@ def Mol2Rec(objects, atomref):
     globalone = PosAtom(selection1=f"{objects[0]} Mol A {atomref}", coordsys="global")
 
     #MoveObj(selection1=f"{objects[1]}", x=globalone[0], y=globalone[1], z=globalone[2])
-    return PosObj(selection1=f"{objects[1]}", x=localone[0], y=localone[1], z=localone[2]) 
+    return PosObj(selection1=f"{objects[1]}", x=globalone[0], y=globalone[1], z=globalone[2]) 
 #get cavities 
 def CaviScene(PATH):
     pdb_file = LoadPDB(f"{PATH}")
